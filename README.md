@@ -29,3 +29,7 @@ Preorder Traversal: This type of traversal method is a situation whereby the roo
 Inorder Operation: This type of traversal method is a situation whereby the left subtree or node is visited first, then the root node and finally the right subtree or node.
 
 Postorder Operation: This type of traversal method is a situation whereby the left subtree or node is visited first, then the right subtree or node and finally the root.
+
+Mahdi 
+https://github.com/mehdielk11 
+
